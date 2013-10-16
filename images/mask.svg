@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="mask.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6368117"
+     inkscape:cx="387.49872"
+     inkscape:cy="554.9294"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-center="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="2500"
+     inkscape:window-height="1396"
+     inkscape:window-x="60"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 318.08762,435.70153 47.5446,-0.1774 -0.70962,22.17566 c 0,0 -8.16064,-1.59665 -7.98323,10.64431 0.1774,12.24096 0.1774,35.30365 0.1774,35.30365 l -29.62668,-8.69286 c 0,0 -0.44966,-20.93142 -0.70962,-29.27187 -0.28591,-9.17295 -8.16064,-8.69285 -8.16064,-8.69285 z"
+       id="path3857"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsccscc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3885"
+       width="26.788191"
+       height="54.995628"
+       x="396.50073"
+       y="-549.5957"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3861"
+       width="24.127113"
+       height="48.431633"
+       x="384.43719"
+       y="512.16321"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <image
+       y="489.98532"
+       x="436.22235"
+       id="image3925"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAA3CAYAAAD9ujEYAAAABHNCSVQICAgIfAhkiAAAADtJREFU
+WIXtzTEBACAMA7AOPfPvjBseLLArMZA6ycmE7r1Gokcmk8lkMplMJpPJZDKZTCaTyWSy/6pyAbCS
+A7uuKEgGAAAAAElFTkSuQmCC
+"
+       height="43.11385"
+       width="23.097084"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 378.22799,432.15343 37.78732,-1e-5 0,54.28601 -27.143,-0.17741 0.35481,-26.43338 c 0,0 0.88702,-6.38659 -11.17653,-5.85437 -0.17724,0.008 0.1774,-21.82084 0.1774,-21.82084 z"
+       id="path3928"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 430.38514,516.42092 27.91795,16.4458 c 0,0 -0.36204,29.32057 -0.35481,29.32475 l -27.70403,-15.99493 z"
+       id="path3930"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 411.22537,474.73069 44.33641,29.14575 -44.159,-0.53222 -43.27998,-29.21799 z"
+       id="path3932"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 348.95613,430.20196 0,31.75555 -23.27994,6.23784 0,-37.81598 z"
+       id="path3934"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 431.27216,449.18433 26.43145,-15.2602 0,29.27521 -26.4039,15.2443 z"
+       id="path4002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 404.66138,439.95925 21.46603,0.17741 33.6183,32.19905 -36.989,0 -18.13817,-14.31472 z"
+       id="path4026"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 387.98528,501.69628 0,-18.09533 -21.64344,0 -12.41836,12.59577 0,19.86939 18.27273,0 z"
+       id="path4028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       d="m 328.19972,503.47034 0,22.88527 14.63593,14.63594 21.19993,0 0,-23.15139 -15.31286,-14.34242 z"
+       id="path4030"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998" />
+    <rect
+       style="fill:#0000ff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3859"
+       width="42.932072"
+       height="24.836735"
+       x="329.61896"
+       y="540.19324"
+       inkscape:export-xdpi="50.759998"
+       inkscape:export-ydpi="50.759998"
+       inkscape:export-filename="/Users/frederikaust/Documents/Projekte/ufov_attention/papenberg/mask80.png" />
+  </g>
+</svg>
