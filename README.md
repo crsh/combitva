@@ -1,7 +1,7 @@
 # Open CombiTVA
 This is an open implementation of the CombiTVA paradigm (Vangkilde, Bundesen & Coull, 2011) in OpenSesame (Mathôt, Schreij & Theeuwes, 2012).
 
-This version of Open CombiTVA is out of the box optimized for 19-inch displays with a resolution of 1280 x 960 px at 100 Hz refresh rate for proper stimulus presentation. Participant should be seated at a distance of 60 cm from the display during the experiment. Of course the experiment can be customized to fit other screen sizes and viewing distances.
+This version of Open CombiTVA is out of the box optimized for 24-inch displays with a resolution of 1920 x 1080 px at 100 Hz refresh rate for proper stimulus presentation. Participant should be seated at a distance of 60 cm from the display during the experiment. Of course the experiment can be customized to fit other screen sizes and viewing distances.
 
 In the folder *analysis* you'll find an R-Script that converts the data to the format needed for parameter fitting. The converted files can be fit using either the trial-by-trial fitting program (Kyllingsbæk, 2006) or the LibTVA MatLab library (Dyrholm, Kyllingsbæk, Espeseth & Bundesen, 2011). You can retrieve both software packages from [Claus Bundesen's lab website](http://cvc.psy.ku.dk/resources/).
 
