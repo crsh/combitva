@@ -9,6 +9,16 @@ Open CombiTVA by default is optimized for 24-inch displays with a resolution of 
 ### Running Open CombiTVA
 Before running the experiment you need to add all images in the folder *pool* to OpenSesame's file pool. If you want to use German instructions, copy and paste the instructions from the text-file into the corresponding elements' scripts in OpenSesame.
 
+In order to run the experiment on your experimental monitor, you will need to adjust five parameters to your individual screen. It is recommended to use the sample experiment 'calibrate_presentation.opensesame' in order to calibrate these settings, which will turn out to be quite easy. You will then have to insert your calibrated settings into the actual experiment (which works the same way). The parameters are:
+* screen resolution at the beginning of the experiment
+* screen width
+* resolution width
+* screen distance (how far away is the participant seated
+* letter size
+
+TO DO: Explain how to calibrate all parameters
+
+
 ### Data analysis
 In the folder *analysis* you'll find an R-Script that converts the data to the format needed for parameter fitting. The converted files can be fit using either the trial-by-trial fitting program (Kyllingsbæk, 2006) or the LibTVA MatLab library (Dyrholm, Kyllingsbæk, Espeseth & Bundesen, 2011). You can retrieve both software packages from [Claus Bundesen's lab website](http://cvc.psy.ku.dk/resources/).
 
