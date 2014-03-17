@@ -11,7 +11,7 @@ You find the actual experiment in the folder *experiment*. Before running the ex
 
 Before running the experiment, you will have to adjust the experimental settings to your monitor, so that positioning and size of the stimuli are in accordance to the specifications in the combiTVA paper. That is: the letters must be presented in a circle of 7.5 degrees of visual angle around the center of the screen and must correspond to a height of 2.7 degrees of visual angle. 
 
-.B How do I calibrate the monitor?
+__How do I calibrate the monitor?__
 
 It is recommended and most convenient to use the OpenSesame sample experiment in the *calibration* folder to calibrate the experiment to your monitor. After calibrating the settings you can simply insert them the into the actual experiment the same way. You will need to do five adjustments:
 
