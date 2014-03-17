@@ -4,7 +4,7 @@ This is an open implementation of the CombiTVA paradigm (Vangkilde, Bundesen & C
 More resources on OpenSesame can be found at on [Sebastiaan Mathôt's website](http://osdoc.cogsci.nl/).
 
 ### Requirements
-Open CombiTVA by default is optimized for 24-inch displays with a resolution of 1920 x 1080 px at 100 Hz refresh rate for proper stimulus presentation. Participant should be seated at a distance of 60 cm from the display during the experiment. Of course the experiment can be customized to fit other screen sizes and viewing distances. All instructions are in English language. Currently, translations for German are available in a text file in the folder *languages*.
+Open CombiTVA by default is optimized for 24-inch displays with a resolution of 1920 x 1080 px at 100 Hz refresh rate for proper stimulus presentation. Only run the experiment with monitor refresh rates that enable the presentation of 10 ms frames (-> 100 Hz, not 75 or 60 Hz). Participant should be seated at a distance of 60 cm from the display during the experiment. Of course the experiment can be customized to fit other screen sizes and viewing distances (see below how). All instructions are in English language. Currently, translations for German are available in a text file in the folder *languages*.
 
 ### Running Open CombiTVA
 You find the actual experiment in the folder *experiment*. Before running the experiment you need to add all images in the subfolder *pool* to OpenSesame's file pool. If you want to use German instructions, copy and paste the instructions from the text-file into the corresponding elements' scripts in OpenSesame.
