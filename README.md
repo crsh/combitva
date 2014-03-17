@@ -7,16 +7,38 @@ More resources on OpenSesame can be found at on [Sebastiaan Mathôt's website](h
 Open CombiTVA by default is optimized for 24-inch displays with a resolution of 1920 x 1080 px at 100 Hz refresh rate for proper stimulus presentation. Participant should be seated at a distance of 60 cm from the display during the experiment. Of course the experiment can be customized to fit other screen sizes and viewing distances. All instructions are in English language. Currently, translations for German are available in a text file in the folder *languages*.
 
 ### Running Open CombiTVA
-Before running the experiment you need to add all images in the folder *pool* to OpenSesame's file pool. If you want to use German instructions, copy and paste the instructions from the text-file into the corresponding elements' scripts in OpenSesame.
+You find the actual experiment in the folder *experiment*. Before running the experiment you need to add all images in the subfolder *pool* to OpenSesame's file pool. If you want to use German instructions, copy and paste the instructions from the text-file into the corresponding elements' scripts in OpenSesame.
 
-In order to run the experiment on your experimental monitor, you will need to adjust five parameters to your individual screen. It is recommended to use the sample experiment 'calibrate_presentation.opensesame' in order to calibrate these settings, which will turn out to be quite easy. You will then have to insert your calibrated settings into the actual experiment (which works the same way). The parameters are:
-* screen resolution at the beginning of the experiment
-* screen width
-* resolution width
-* screen distance (how far away is the participant seated
-* letter size
+Before running the experiment, you will have to adjust the experimental settings to your monitor, so that positioning and size of the stimuli are in accordance to the specifications in the combiTVA paper. That is: the letters must be presented in a circle of 7.5 degrees of visual angle around the center of the screen and must correspond to a height of 2.7 degrees of visual angle. 
 
-TO DO: Explain how to calibrate all parameters
+.B How do I calibrate the monitor?
+
+It is recommended and most convenient to use the OpenSesame sample experiment in the *calibration* folder to calibrate the experiment to your monitor. After calibrating the settings you can simply insert them the into the actual experiment the same way. You will need to do five adjustments:
+
+* screen resolution
+** simply insert the resolution that your monitor is running on in the general properties of the experiment
+** the general properties are found in the upper most item in the item overview on the left (= Insert_Resolution_here)
+* screen_width
+** open the inline script 'Adjust_monitor' in the item overview to do the other adjustments
+** measure the width of your screen (cm) and insert assign the value to the variable 'screen_width'
+* resolution_width
+** assign the resolution width of your screen (pixels) to the variable 'resolution_width'
+* screen_distance
+** use the variable 'screen_distance' to indicate how far from the screen participants will be seated 
+* letter_size
+** when you have made the four assignments from above, run the experiment
+** you will see how the letters will be presented on the screen
+** a message will be displayed that shows the necessary height of the letters
+** measure the actual height of the letters
+** end the experiment by clicking any key
+** if the actual height and the displayed height are the same, you have found the correct adjustments for your monitor
+** if not: adjust the letter_size variable and run the experiment as long as is needed to find the correct letter size 
+** then insert the five adjustments to the actual experiment in the same way as you did in the sample experiment
+
+
+### Data output
+To do: explain the output of the experiment
+
 
 
 ### Data analysis
