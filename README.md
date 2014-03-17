@@ -16,15 +16,15 @@ Before running the experiment, you will have to adjust the experimental settings
 It is recommended and most convenient to use the OpenSesame sample experiment in the *calibration* folder to calibrate the experiment to your monitor. After calibrating the settings you can simply insert them the into the actual experiment the same way. You will need to do five adjustments:
 
 * screen resolution
-  * simply insert the resolution that your monitor is running on in the general properties of the experiment
+  * insert the resolution that your monitor is running on to the general properties of the experiment
   * the general properties are found in the upper most item in the item overview on the left (= Insert_Resolution_here)
 * screen_width
-  * open the inline script 'Adjust_monitor' in the item overview to do the other adjustments
+  * open the inline script 'Adjust_monitor' in the item overview to do the remaining four adjustments
   * measure the width of your screen (cm) and insert assign the value to the variable 'screen_width'
 * resolution_width
   * assign the resolution width of your screen (pixels) to the variable 'resolution_width'
 * screen_distance
-  * use the variable 'screen_distance' to indicate how far from the screen participants will be seated 
+  * use the variable 'screen_distance' to indicate how far from the screen participants will be seated (also in cm!)
 * letter_size
   * when you have made the four assignments from above, run the experiment
   * you will see how the letters will be presented on the screen
@@ -33,7 +33,7 @@ It is recommended and most convenient to use the OpenSesame sample experiment in
   * end the experiment by clicking any key
   * you have found the correct adjustments for your monitor if the actual height and the displayed height are the same
   * if not: adjust the letter_size variable and run the experiment as long as is needed to find the correct letter size 
-  * then insert the five adjustments to the actual experiment in the same way as you did in the sample experiment
+  * then insert the five adjustments to the actual TVA experiment in the same way as you did in the sample experiment
 
 
 ### Data output
